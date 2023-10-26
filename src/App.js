@@ -11,6 +11,7 @@ import TimePicker from "./components/Button/TimePicker";
 import StatusActiveInput from "./components/Button/StatusActiveInput";
 import StatusActiveInputs from "./components/Button/StatusActiveInputs";
 import DropDown from "./components/DropDown";
+import { Accordion } from "./components/Accordion/Accordion";
 
 const theme = {
   dark: { primary: "#000", text: "#fff" },
@@ -55,6 +56,7 @@ function App() {
           <br />
           <DropDown />
           <br />
+          <Accordion />
         </header>
       </div>
     </ThemeProvider>
