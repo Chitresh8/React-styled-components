@@ -1,12 +1,7 @@
 {
-  "short_name": "React Vite App",
-  "name": "React Styled Components App - Powered by Vite",
+  "short_name": "React Styled Components App",
+  "name": "React Styled Components Learning App",
   "icons": [
-    {
-      "src": "vite.svg",
-      "sizes": "32x32",
-      "type": "image/svg+xml"
-    },
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
@@ -25,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#646cff",
+  "theme_color": "#000000",
   "background_color": "#ffffff"
 }
