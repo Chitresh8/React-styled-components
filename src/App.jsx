@@ -26,7 +26,7 @@ const theme = {
 const GlobalStyle = createGlobalStyle`button { font-family:${(props) =>
   props.theme.fontFamily}}`;
 
-const navigate = useNavigate();
+// const navigate = useNavigate();
 
 const routeClick = () => {
   navigate("/styled-components");
